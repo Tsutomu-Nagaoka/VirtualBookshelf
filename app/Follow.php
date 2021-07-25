@@ -13,7 +13,7 @@ class Follow extends Model
         'followed_id'
     ];
 
-    // 変更するs
+    // 変更する
     protected $fillable = [
         'following_id',
         'followed_id'
